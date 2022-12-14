@@ -23,6 +23,5 @@ gradle
 .vscode/
 
 .env
-/.run/
 
 buildSrc/build/
